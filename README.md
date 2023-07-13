@@ -25,7 +25,7 @@
 
 `docker-compose up -d`
 
-即可开始下载Weaviate及其他模块。待成功下载后，可以进入http://localhost:8080/检验是否成功。
+即可开始下载Weaviate及其他模块。待成功下载后，可以进入`http://localhost:8080/`检验是否成功。
 
 
 未完，待补充。。。
