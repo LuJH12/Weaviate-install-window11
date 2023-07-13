@@ -18,7 +18,7 @@
 这样，就已经成功将Weaviate本地部署，可以进入`http://localhost:8080/`检验是否成功。
 
 # GitHub下载方法
-进入官网的[GitHub地址](https://github.com/weaviate/weaviate)，下载其中的`docker-compose.yml`文件，存放在你想安装镜像的文件夹中
+注意！！！！这种方法需要安装的时间较长，需要下载20G+。方法进入官网的[GitHub地址](https://github.com/weaviate/weaviate)，下载其中的`docker-compose.yml`文件，存放在你想安装镜像的文件夹中
 ![5c9de1ddb45568adfd60a96b731d61fc367d7576ba0af8a8b7204284264cdcbbQzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXFJvYW1pbmdcRGluZ1RhbGtcMTQ2NTk4OTcxN192MlxJbWFnZUZpbGVzXDE2ODkyMTIwMzM4NDJfOERBMUNENjAtRDY3RC00YzlmLTg2NjUtMjZCNEI2QUY0RjdGLnBuZw==](https://github.com/LuJH12/Weaviate-install-window11/assets/78155731/9d0c1bfc-cfe0-44ef-a293-ef892f23e551)
 
 然后在该文件夹中进行命令行窗口，输入
